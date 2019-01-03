@@ -1,0 +1,67 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Lanny/Downloads/android-testing-master/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /Users/Lanny/Downloads/android-testing-master/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /Users/Lanny/Downloads/android-testing-master/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /Users/Lanny/Downloads/android-testing-master/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /Users/Lanny/Downloads/android-testing-master/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /Users/Lanny/Downloads/android-testing-master/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /Users/Lanny/Downloads/android-testing-master/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:18:1-40:12
+	package
+		ADDED from /Users/Lanny/Downloads/android-testing-master/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:18:11-80
+		INJECTED from /Users/Lanny/Downloads/android-testing-master/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Lanny/Downloads/android-testing-master/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Lanny/Downloads/android-testing-master/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Lanny/Downloads/android-testing-master/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:18:1-40:12
+		INJECTED from /Users/Lanny/Downloads/android-testing-master/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/Lanny/Downloads/android-testing-master/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Lanny/Downloads/android-testing-master/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:18:1-40:12
+		INJECTED from /Users/Lanny/Downloads/android-testing-master/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Lanny/Downloads/android-testing-master/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:19:11-69
+uses-feature#android.hardware.camera
+ADDED from /Users/Lanny/Downloads/android-testing-master/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:21:5-23:34
+	android:required
+		ADDED from /Users/Lanny/Downloads/android-testing-master/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:23:9-32
+	android:name
+		ADDED from /Users/Lanny/Downloads/android-testing-master/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:22:9-47
+application
+ADDED from /Users/Lanny/Downloads/android-testing-master/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:25:5-38:19
+	android:label
+		ADDED from /Users/Lanny/Downloads/android-testing-master/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from /Users/Lanny/Downloads/android-testing-master/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:26:9-45
+	android:theme
+		ADDED from /Users/Lanny/Downloads/android-testing-master/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:28:9-40
+activity#com.example.android.testing.espresso.intents.AdvancedSample.ImageViewerActivity
+ADDED from /Users/Lanny/Downloads/android-testing-master/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:29:9-36:20
+	android:label
+		ADDED from /Users/Lanny/Downloads/android-testing-master/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:31:13-45
+	android:name
+		ADDED from /Users/Lanny/Downloads/android-testing-master/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:30:13-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Lanny/Downloads/android-testing-master/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from /Users/Lanny/Downloads/android-testing-master/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:33:17-68
+	android:name
+		ADDED from /Users/Lanny/Downloads/android-testing-master/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Lanny/Downloads/android-testing-master/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:34:17-76
+	android:name
+		ADDED from /Users/Lanny/Downloads/android-testing-master/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml:34:27-74
+uses-sdk
+INJECTED from /Users/Lanny/Downloads/android-testing-master/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Lanny/Downloads/android-testing-master/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Lanny/Downloads/android-testing-master/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Lanny/Downloads/android-testing-master/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Lanny/Downloads/android-testing-master/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/Lanny/Downloads/android-testing-master/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Lanny/Downloads/android-testing-master/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Lanny/Downloads/android-testing-master/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Lanny/Downloads/android-testing-master/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Lanny/Downloads/android-testing-master/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Lanny/Downloads/android-testing-master/ui/espresso/IntentsAdvancedSample/app/src/main/AndroidManifest.xml
